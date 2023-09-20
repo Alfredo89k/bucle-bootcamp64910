@@ -3,3 +3,7 @@ body{
     background-color: #222;
     color: antiquewhite;
 }
+h1{
+    color: aqua;
+    font-size: larger;
+}
